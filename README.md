@@ -1,2 +1,3 @@
 # Tindev-web
-Feito durante a Semana Omnistack 8
+
+It is a platform that matches programmers based by they technologies and interests.
